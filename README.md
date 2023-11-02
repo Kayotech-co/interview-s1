@@ -8,7 +8,7 @@
 - **Inertia.js**
 - **Vue**
 - **Pest**
-- Laravel Sanctum
+- Laravel Breeze
 - Laravel Role Permission
 - Laravel Media Library
 
